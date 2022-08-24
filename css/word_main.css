@@ -1,0 +1,59 @@
+#div_first{
+        float: left;
+        width: 800px;
+    }
+    .option{
+        width: 800px;
+        height: 30px;
+        background: pink;
+
+
+    }
+    .record{
+        background-color: #fff;
+        width: 600px;
+        height: 800px;
+        float:left;
+        display: flex;
+    }
+    .litter{
+        float:none;
+        width: 60px;
+        height: 60px;
+        color: red;
+        border: medium double rgb(250,0,255);
+        border-bottom-color: black;
+    }
+    .right{
+        background: green;
+        color:black;
+        font-size: 30px;
+        text-align:center;
+        font-weight:bold;
+    }
+    .wrong{
+        background: red;
+        color:black;
+        font-size: 30px;
+        text-align:center;
+        font-weight:bold;
+    }
+    .not{
+        background: pink;
+        color:black;
+        font-size: 30px;
+        text-align:center;
+        font-weight:bold;
+    }
+    .record_son{
+        width: 100px;
+        height: 100px;
+    }
+    .wrong_litter{
+        float:none;
+        width: 60px;
+        height: 60px;
+        color: red;
+
+        border-bottom-color: black;
+    }
